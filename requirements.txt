@@ -1,0 +1,40 @@
+# Core
+jupyterlab
+notebook
+ipykernel
+
+# Data Handling & Visualization
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# XAI - Explainability
+lime
+shap
+pdpbox
+eli5
+captum
+alibi
+tf-keras-vis
+keras-conv-visualizer
+tf-keras
+dice-ml
+
+# Deep Learning (Torch-based)
+tensorflow
+torch
+torchvision
+torchcam
+
+# Image & Preprocessing
+opencv-python
+Pillow
+scikit-image
+
+# Transformers & TCAV
+transformers
+torchxrayvision
+
+# Optional Extras
+gradio
